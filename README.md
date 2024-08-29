@@ -1,3 +1,3 @@
-Rosa Shephard \n
-she/her
-Computer Science major at UAF
+Rosa Shephard<br/>
+she/her<br/>
+Computer Science major at UAF<br/>
